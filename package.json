@@ -1,0 +1,22 @@
+{
+  "name": "tail",
+  "version": "0.1.0",
+  "description": "Watch and tail a file in nodejs",
+  "main": "tail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tail",
+    "file",
+    "logs",
+    "tail",
+    "-n",
+    "tail",
+    "-f",
+    "watch",
+    "readline",
+    "stream"
+  ],
+  "author": ""
+}
